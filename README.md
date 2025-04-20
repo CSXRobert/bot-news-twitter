@@ -66,23 +66,24 @@ MIT License - Open source and free to use.
 This bot is for free, but if you want to donate:
 
 btc
+   1LVocwYpWnd59Juyfhyum7JiVRXAmqAaWb
 
-1LVocwYpWnd59Juyfhyum7JiVRXAmqAaWb
 eth (bsc)
 
-0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+   0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+
 bnb (bsc)
 
-0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+   0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+
 xrp
 
-rNxp4h8apvRis6mJf9Sh8C6iRxfrDWN7AV
+   rNxp4h8apvRis6mJf9Sh8C6iRxfrDWN7AV
+   Memo: 401375175
 
-
-Memo: 401375175
 usdt (trx)
 
-TFjbSrQVmAqaeuGzUsPHVTM2nDD1LweY5k
-rvn
+   TFjbSrQVmAqaeuGzUsPHVTM2nDD1LweY5k
 
-RFLbQboprMwgeuXGTPy3h6gW72Lvfgkgrs
+rvn
+   RFLbQboprMwgeuXGTPy3h6gW72Lvfgkgrs
