@@ -22,8 +22,10 @@ A Python bot that fetches news from **NewsAPI**, summarizes it using **Hugging F
    git clone https://github.com/CSXRobert/bot-news-twitter.git
    cd bot-news-twitter
 
+
 2. **Install dependencies**:
    pip install requests tweepy transformers python-dotenv
+
 
 3. **Edit the .env file:**:
 # Twitter API
@@ -36,11 +38,13 @@ TWITTER_BEARER_TOKEN=YOUR_BEARER_TOKEN_HERE
 # NewsAPI
 NEWSAPI_KEY=YOUR_NEWSAPI_KEY_HERE
 
+
 4. **Run the bot:**:
 python news_bot.py
 
-5. **Run the bot:**:
-Customization ⚙️
+
+5. **Customization ⚙️:**:
+
 Change categories: Modify the CATEGORIES list in the code.
 
 Adjust posting interval: Edit the interval variable (in seconds).
@@ -56,6 +60,9 @@ For production, consider adding error handling/logging.
 
 License 📄
 MIT License - Open source and free to use.
+
+
+5. **Donate:**:
 
 This bot is for free, but if you want to donate:
 
